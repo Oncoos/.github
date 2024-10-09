@@ -1,3 +1,0 @@
-## What is Oncoos ?
-
-Oncoos is an advanced digital diagnostic platform designed to empower clinicians and patients in the fight against cancer. Specializing in the analysis of medical images from slides and other sources, Onco provides accurate and efficient diagnostic tools to pathologists, starting with cervical cancer and expanding to cover various types of cancer in the future. With an intuitive clinician platform and a dedicated patient app, Onco aims to streamline the diagnostic process, offering a seamless connection between healthcare providers and patients, enabling early detection and personalized treatment plans.
